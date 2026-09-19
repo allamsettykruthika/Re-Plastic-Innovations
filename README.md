@@ -10,7 +10,7 @@ and automated inventory processes.
 
 ## 📄 Project Documentation
 
-👉 **[View / Download Project Documentation](./salesforce_project_3_documentation.pdf)**
+👉 [View / Download Project Documentation](./salesforce_project_3%20documentation.pdf)
 
 The complete project documentation includes the Salesforce configuration,
 data model, security setup, validation rules, Flow automation, Apex implementation,
