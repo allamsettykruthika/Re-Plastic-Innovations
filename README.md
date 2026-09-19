@@ -64,10 +64,3 @@ The repository also contains screenshots demonstrating:
 
 ---
 
-## 👩‍💻 Student
-
-**Name:** Kruthika Allamsetty  
-**Roll Number:** 238W1A5401  
-**Branch:** AI&DS  
-**Year:** Fourth Year  
-**Academic Year:** 2026–2027
